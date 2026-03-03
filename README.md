@@ -3,7 +3,7 @@ Data Analyst project showing Sales and Trend using Python , SQL and POWER BI
 
 This project demonstrates a complete data analysis workflow starting from raw data to business insights and dashboard visualization. The objective is to analyze the dataset, extract meaningful insights, and present findings using SQL and Power BI.
 
-The project includes:
+# The project includes:
 
 Data Loading
 
